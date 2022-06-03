@@ -1,4 +1,4 @@
-Olá esse projeto foi criado para aprendizado do uso de GIT.
+Olá esse projeto foi criado para aprendizado e ensino do uso de GIT.
 
 ------------SEGUE ABAIXO OS COMANDOS BASICOS PARA USO DO GIT ---------------
 
